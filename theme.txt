@@ -17,8 +17,8 @@ terminal-border: "0"
   width = 70%
   height = 60%
   item_font = "Fixedsys Regular 32"
-  item_color = "#777777"
-  selected_item_color = "#999999"
+  item_color = "#fcfad6"
+  selected_item_color = "#161422"
   item_height = 40
   item_spacing = 4
   item_pixmap_style = "item_*.png"
@@ -54,7 +54,7 @@ terminal-border: "0"
   # text = "Автоматичне завантаження розпочнеться через %d сек."
   # zh_CN
   # text = "在 %d 内启动"
-  color = "#777777"
+  color = "#fcfad6"
   font = "Fixedsys Regular 32"
 }
 
@@ -86,6 +86,6 @@ terminal-border: "0"
   # text = "Використовуйте ↑ та ↓ для вибору, Enter для підтвердження"
   # zh_CN
   # text = "使用 ↑ 和 ↓ 键移动选择条，Enter 键确认"
-  color = "#777777"
+  color = "#fcfad6"
   font = "Fixedsys Regular 32"
 }
