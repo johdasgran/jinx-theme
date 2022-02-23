@@ -19,8 +19,9 @@ terminal-border: "0"
   item_font = "Encode Sans Regular 28"
   item_color = "#fcfad6"
   selected_item_color = "#ffffff"
-  item_height = 40
-  item_spacing = 4
+  item_height = 48
+  item_spacing = 8
+  item_icon_space = 12
   item_pixmap_style = "item_*.png"
   selected_item_pixmap_style = "selected_item_*.png"
 }
@@ -28,7 +29,7 @@ terminal-border: "0"
 # Countdown message
 + label {
   left = 0
-  top = 100%-48
+  top = 98%-80
   width = 100%
   align = "center"
   id = "__timeout__"
@@ -61,7 +62,7 @@ terminal-border: "0"
 # Navigation keys hint 
 + label {
   left = 0
-  top = 100%-24
+  top = 100%-32
   width = 100%
   align = "center"
   # DE
