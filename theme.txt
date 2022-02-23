@@ -1,5 +1,5 @@
 # Global properties
-title-text: ""
+title-text: "This is de title :)"
 desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-font: "Fixedsys Regular 32"
