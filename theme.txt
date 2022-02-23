@@ -18,7 +18,7 @@ terminal-border: "0"
   height = 60%
   item_font = "Fixedsys Regular 32"
   item_color = "#fcfad6"
-  selected_item_color = "#161422"
+  selected_item_color = "#171323c7"
   item_height = 40
   item_spacing = 4
   item_pixmap_style = "item_*.png"
