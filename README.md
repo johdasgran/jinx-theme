@@ -1,17 +1,38 @@
-## Albedo GRUB theme
+# Jinx GRUB theme 💣🔥💥
 
 Supported languages: Chinese (simplified), English, French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Turkish, Ukrainian
 
-### Installation / update
+## :wrench: Installation
+### :one: <b>First installation way</b>
 
-1. **Secure way:**
-    - Download install script:  
-    `wget -P /tmp https://github.com/johdasgran/albedo-theme/raw/main/install.sh`
-    - Review install script at `/tmp/install.sh`
-    - Run it: `bash /tmp/install.sh`
+- Open terminal.
 
-2. **Easier, less secure way** — just download and run install script:  
-    `wget -O - https://github.com/johdasgran/albedo-theme/raw/main/install.sh` | bash`
+- Clone this repository
 
----
+    ```
+    git clone https://github.com/johdasgran/jinx-theme.git
+    ```
 
+- Change directory to the Jinx Theme
+
+    ```
+    cd jinx-theme
+    ```
+
+ - Setup the new GRUB
+
+    ```
+    sudo ./install.sh
+    sudo update-grub
+    ```
+ - Reboot your PC
+
+### :two: <b>Second installation way</b>
+
+
+ - **Easier, less secure way** — just download and run install script:
+
+    ```
+    wget -O - https://github.com/johdasgran/jinx-theme/raw/main/install.sh | bash
+    ```
+ - Reboot your PC

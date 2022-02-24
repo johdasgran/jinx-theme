@@ -3,7 +3,7 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-GRUB_THEME='albedo-theme'
+GRUB_THEME='jinx-theme'
 INSTALLER_LANG='English'
 
 # Check dependencies
