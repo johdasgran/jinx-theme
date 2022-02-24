@@ -14,10 +14,10 @@ terminal-border: "0"
 + boot_menu {
   left = 15%
   top = 20%
-  width = 50%
+  width = 70%
   height = 60%
   item_font = "Source Code Pro Regular 28"
-  item_color = "#a0948c"
+  item_color = "#ffffff"
   selected_item_color = "#c04062"
   item_height = 48
   item_spacing = 8
