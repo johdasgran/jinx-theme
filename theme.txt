@@ -2,7 +2,7 @@
 title-text: ""
 desktop-image: "background.png"
 desktop-color: "#000000"
-terminal-font: "Fira Code Regular 20"
+terminal-font: "Fira Code Regular 28"
 terminal-box: "terminal_box_*.png"
 terminal-left: "0"
 terminal-top: "0"
@@ -16,7 +16,7 @@ terminal-border: "0"
   top = 20%
   width = 70%
   height = 60%
-  item_font = "Fira Code Regular 20"
+  item_font = "Fira Code Regular 28"
   item_color = "#6b62a2"
   selected_item_color = "#2dc4fb"
   item_height = 48
