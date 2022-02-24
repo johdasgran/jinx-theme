@@ -10,6 +10,40 @@ terminal-width: "100%"
 terminal-height: "100%"
 terminal-border: "0"
 
+
+# Welcome message
++ label {
+  left = 0
+  top = 4%
+  width = 100%
+  align = "center"
+  # DE
+  # text = "Willkommen"
+  # EN
+  text = "Welcome"
+  # ES
+  # text = "Bienvenido"
+  # FR
+  # text = "Bienvenue"
+  # IT
+  # text = "Benvenuto"
+  # NO
+  # text = "Velkommen"
+  # PT
+  # text = "Bom día"
+  # RU
+  # text = "Добро пожаловать"
+  # TR
+  # text = "Hoş geldin"
+  # UA
+  # text = "Ласкаво просимо"
+  # zh_CN
+  # text = "欢迎"
+  color = "#ffc9d4"
+  font = "Source Code Pro Bold 80"
+  
+}
+
 # Boot menu
 + boot_menu {
   left = 12%
