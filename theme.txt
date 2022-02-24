@@ -39,7 +39,7 @@ terminal-border: "0"
   # text = "Ласкаво просимо"
   # zh_CN
   # text = "欢迎"
-  color = "#ffc9d4"
+  color = "#c04062"
   font = "Source Code Pro Bold 80"
   
 }
