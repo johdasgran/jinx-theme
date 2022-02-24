@@ -17,8 +17,8 @@ terminal-border: "0"
   width = 70%
   height = 60%
   item_font = "Fira Code Regular 20"
-  item_color = "#616161"
-  selected_item_color = "#a02b23"
+  item_color = "#6b62a2"
+  selected_item_color = "#2dc4fb"
   item_height = 48
   item_spacing = 8
   item_icon_space = 12
@@ -55,8 +55,8 @@ terminal-border: "0"
   # text = "Автоматичне завантаження розпочнеться через %d сек."
   # zh_CN
   # text = "在 %d 内启动"
-  color = "#f89730"
-  font = "Fira Code Regular 20"
+  color = "#188dff"
+  font = "Fira Code Regular 28"
 }
 
 # Navigation keys hint 
@@ -87,6 +87,6 @@ terminal-border: "0"
   # text = "Використовуйте ↑ та ↓ для вибору, Enter для підтвердження"
   # zh_CN
   # text = "使用 ↑ 和 ↓ 键移动选择条，Enter 键确认"
-  color = "#f89730"
-  font = "Fira Code Regular 20"
+  color = "#188dff"
+  font = "Fira Code Regular 28"
 }
