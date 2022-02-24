@@ -18,7 +18,8 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
     ```
     cd jinx-theme
     ```
-
+ - Review install script at /install.sh
+ 
  - Setup the new GRUB
 
     ```
