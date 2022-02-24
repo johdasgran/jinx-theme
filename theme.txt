@@ -57,6 +57,7 @@ terminal-border: "0"
   # text = "在 %d 内启动"
   color = "#188dff"
   font = "Fira Code Regular 28"
+  
 }
 
 # Navigation keys hint 
